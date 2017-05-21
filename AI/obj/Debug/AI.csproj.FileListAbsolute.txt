@@ -1,1 +1,6 @@
 C:\Users\Pablo\github\AI\AI\bin\Debug\AI.exe.config
+C:\Users\Pablo\github\AI\AI\bin\Debug\AI.exe
+C:\Users\Pablo\github\AI\AI\bin\Debug\AI.pdb
+C:\Users\Pablo\github\AI\AI\obj\Debug\AI.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\github\AI\AI\obj\Debug\AI.exe
+C:\Users\Pablo\github\AI\AI\obj\Debug\AI.pdb
