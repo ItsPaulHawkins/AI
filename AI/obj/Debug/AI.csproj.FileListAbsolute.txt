@@ -4,3 +4,12 @@ C:\Users\Pablo\github\AI\AI\bin\Debug\AI.pdb
 C:\Users\Pablo\github\AI\AI\obj\Debug\AI.csprojResolveAssemblyReference.cache
 C:\Users\Pablo\github\AI\AI\obj\Debug\AI.exe
 C:\Users\Pablo\github\AI\AI\obj\Debug\AI.pdb
+C:\Users\Pablo\github\AI\AI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pablo\github\AI\AI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pablo\github\AI\AI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\github\AI\AI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pablo\github\AI\AI\bin\Debug\Twilio.dll
+C:\Users\Pablo\github\AI\AI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Pablo\github\AI\AI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo\github\AI\AI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Pablo\github\AI\AI\bin\Debug\Twilio.xml
